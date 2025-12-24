@@ -20,4 +20,6 @@ The TA wrote a single program that:
 #### Average is : 4.75
 #### Second Largest number is: 7
 
+
+
 **File:** `example-01.c` contains the exact code written live in class.
