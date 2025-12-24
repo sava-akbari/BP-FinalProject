@@ -2,8 +2,8 @@
 
 ## Problem Statement:
 
-### Write a complete C program that reads a sequence of integers from the user (input ends when -1 is entered) and computes the length of the longest **strictly increasing** subsequence.
-### In Persian: برنامه کاملی به زبان سی بنویسید که دنباله‌ای از اعداد صحیح را از کاربر بگیرد (ورودی با ورود عدد -1 خاتمه پیدا می‌کند) و طول بزرگ‌ترین زیرتوالی اکیداً صعودی را محاسبه کند
+##### Write a complete C program that reads a sequence of integers from the user (input ends when -1 is entered) and computes the length of the longest **strictly increasing** subsequence.
+#### In Persian: برنامه کاملی به زبان سی بنویسید که دنباله‌ای از اعداد صحیح را از کاربر بگیرد (ورودی با ورود عدد -1 خاتمه پیدا می‌کند) و طول بزرگ‌ترین زیرتوالی اکیداً صعودی را محاسبه کند
 
 **Notes:**
 - The input continues until -1 is entered (-1 is not part of the sequence and only signals termination).
