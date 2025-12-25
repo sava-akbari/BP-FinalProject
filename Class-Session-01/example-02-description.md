@@ -16,11 +16,9 @@ The TA demonstrated how to use nested loops to print patterns, specifically an *
 #### Input: 5
 
 #### Output:
-* * * * *
-* * * *
-* * * 
-* *
-*
+<p align="center">
+  <img src="https://github.com/sava-akbari/C-at-SBU/raw/main/Class-Session-01/inverted-triangle-output.png" alt="Sample output of inverted star triangle for n=7" width="400"/>
+</p>
   
   **Key Concepts Covered:**
 - Nested for loops (outer for rows, inner for columns)
