@@ -27,4 +27,4 @@ The TA demonstrated how to use nested loops to print patterns, specifically an *
 - Decreasing loop counters
 - Basic pattern printing – common in introductory programming
 
-**File:** `inverted_triangle.c` contains the exact code written by the TA in class.
+**File:** `example-2.c` contains the exact code written by the TA in class.
