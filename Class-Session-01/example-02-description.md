@@ -16,7 +16,7 @@ The TA demonstrated how to use nested loops to print patterns, specifically an *
 #### Input: 5
 
 #### Output:
-*****                                                                                                                                                               ****                                                                                                                                                                ***                                                                                                                                                                 **                                                                                                                                                                  *
+-*****                                                                                                                                                               ****                                                                                                                                                                ***                                                                                                                                                                 **                                                                                                                                                                  *
 **Key Concepts Covered:**
 - Nested for loops (outer for rows, inner for columns)
 - Decreasing loop counters
