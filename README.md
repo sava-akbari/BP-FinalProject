@@ -57,8 +57,9 @@ On Linux or macOS, colors will not display correctly (or may cause formatting is
 If you need a cross-platform version without colors, let me know — a Linux/macOS friendly version exists but is not included in this repository.
 
 ### Acknowledgments
-Developed as part of the Basic Programming course at Shahid Beheshti University — Bahman 1404 (February 2026).
-Instructor: Dr. Seyed Mohammad Hajiseyyedjavadi 
+-Developed as part of the Basic Programming course at Shahid Beheshti University 
+-Instructor: Dr. Seyed Mohammad Haji Seyed Javadi
+-Semester : Fall 2025
 
 Thank you for checking out the project!
 Feedback and stars are welcome 😊
