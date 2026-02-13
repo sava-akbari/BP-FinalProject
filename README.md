@@ -40,7 +40,7 @@ const char* filename = "Maze[2].txt";  // Change to any sample file
 ```
 
 ### Maze Format
-- # → Wall
+- "#" → Wall
 - S → Start (exactly one)
 - E → Exit (exactly one)
 - * or space → Open path
