@@ -18,7 +18,7 @@ It will **not** display colors properly (or may have formatting issues) on Linux
 A short video demonstration (recorded on Windows with colors) is included in the repository as `demo_video.mp4`.  
 It shows all three modes in action with one of the sample mazes.
 
-![Demo GIF](demo.gif)  
+![MAZE Game Demo](maze.gif)  
 *(Animated GIF showing gameplay, path display, and shortest path mode)*
 
 ## How to Run (Windows only)
